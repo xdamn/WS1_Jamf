@@ -3,7 +3,7 @@
 
 #.Notes
 #1 Script is designed to fetch the slideshows files from object storage and mine is fetching from github
-#2 Please refer to https://github.com/itjimbo/macOS-Screen-Saver-and-Wallpaper on your prefered script to activate screensaver on OSX14+ #update macOS14act variables
+#2 Please refer to https://github.com/itjimbo/macOS-Screen-Saver-and-Wallpaper on your prefered script to activate screensaver on OSX14+ #update macOS14act variables #BigThanks
 
 #Variables
 SSVersion="SSaverVer-08082024-01" marker filename
